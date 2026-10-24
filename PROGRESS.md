@@ -9,12 +9,14 @@
   - `llms-full.txt` — vollständiger Text
 - Obsidian-Canvas `200-projects/botghost-event-guide.canvas` erstellt.
 - Vault-Hub `200-projects/botghost-event-guide.md` erstellt.
+- Alle 181 Einzelseiten nach `pages/` kopiert.
+- GitHub-Repo privat angelegt und gepusht:
+  https://github.com/Wortwurzel/botghost-event-guide
 
 ## Nächstes
 
-- Einzelne BotGhost-Seiten in den Ordner legen (Import läuft).
-- GitHub-Repo anlegen und pushen.
 - Auf Zuruf: den konkreten Event-/Command-Canvas bauen.
+- Optional: Repo öffentlich machen.
 
 ## Entscheidungen
 
