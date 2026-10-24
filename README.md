@@ -15,7 +15,8 @@ kopiert in `Wie funktioniert das/`.
 
 ## Aufbau
 
-- `Wie funktioniert das/` — kopierte BotGhost-Doku mit `_source.md`.
+- `docs/vendor/botghost/2026-10-24/Wie funktioniert das/` — kopierte
+  BotGhost-Doku mit `_source.md` und `pages/`.
 - `README.md` — dieser Überblick.
 - `PROGRESS.md` — Stand und nächste Schritte.
 
