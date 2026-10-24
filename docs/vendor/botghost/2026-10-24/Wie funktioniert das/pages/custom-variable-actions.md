@@ -1,0 +1,7 @@
+> For the complete documentation index, see [llms.txt](https://documentation.botghost.com/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](https://documentation.botghost.com/custom-commands-and-events/actions/custom-variable-actions.md).
+
+# Custom Variable Actions
+
+The command builder offers multiple custom variable actions. They allow you to store and manage already stored information. Below you may find some general information about each block. Click on its name for more information.
+
+<table><thead><tr><th data-type="content-ref">Block</th><th>Information</th></tr></thead><tbody><tr><td><a href="/custom-commands-and-events/actions/custom-variable-actions/set-variable.md">Set Variable</a></td><td>The set variable action allows you to set or change the value of a custom variable by using a preset string, variables, or a combination of both.</td></tr><tr><td><a href="/custom-commands-and-events/actions/custom-variable-actions/run-equation-on-variable.md">Run Equation on Variable</a></td><td>The run equation on variable action allows you to modify the value of a custom variable by applying a numerical equation to the current value.</td></tr><tr><td><a href="/custom-commands-and-events/actions/custom-variable-actions/delete-variable.md">Delete Variable</a></td><td>The delete variable action allows you to reset the value of a custom variable back to its default value.</td></tr></tbody></table>

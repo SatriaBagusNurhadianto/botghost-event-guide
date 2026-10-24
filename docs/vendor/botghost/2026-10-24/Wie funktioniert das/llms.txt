@@ -1,0 +1,188 @@
+# BotGhost Documentation
+
+## Documentation
+
+- [BotGhost Documentation](https://documentation.botghost.com/welcome.md): We warmly welcome you to the BotGhost Documentation!
+- [Guidelines & Privacy](https://documentation.botghost.com/guidelines-and-privacy.md): Make sure to follow our guidelines!
+- [Create Your First Bot](https://documentation.botghost.com/getting-started/create-your-first-bot.md): Are you new to BotGhost or did you forget how you can create a BotGhost bot? Take a look at the video or steps below to get all the information you need!
+- [Create Your Second Bot](https://documentation.botghost.com/getting-started/create-your-first-bot/creating-multiple-bots.md): Why just have one bot, when you can have more? With the bot switcher feature, this makes it easy to do!
+- [Invite Your Bot](https://documentation.botghost.com/getting-started/invite-your-bot.md): Not able to figure out how you can invite your bot? Below you can find the instructions!
+- [Standard Practices](https://documentation.botghost.com/getting-started/standard-practices.md): There are some frequently asked questions about BotGhost. Some best practices you may need in the future.
+- [Advanced Practices](https://documentation.botghost.com/getting-started/standard-practices/advanced-practices.md): Do you need certain IDs to use in the command builder?
+- [Mobile Application](https://documentation.botghost.com/getting-started/mobile-application.md): Would you like to use BotGhost via an app? We offer you way to use BotGhost through an iOS app or icon on your home screen.
+- [BotGhost Support](https://documentation.botghost.com/support/botghost-support.md): Do you require assistance? Read everything about it below!
+- [Frequently Asked Questions](https://documentation.botghost.com/support/frequently-asked-questions.md): On this page you can find a couple FAQs that might answer your question quickly!
+- [Other FAQs](https://documentation.botghost.com/support/frequently-asked-questions/other-faqs.md): On this page you can find a couple FAQs that might answer your question quickly!
+- [Priority Hosting](https://documentation.botghost.com/premium/priority-hosting.md): Check the following hyperlinks for quick support regarding your priority hosting subscription.
+- [Our Premium Features](https://documentation.botghost.com/premium/our-premium-features.md): View a list of features you can access with a BotGhost Premium subscription.
+- [Premium & Priority Hosting Plans](https://documentation.botghost.com/premium/premium-and-priority-hosting-plans.md): The following Payment Methods can be used to purchase a Premium subscription
+- [Upgrade Your Bot](https://documentation.botghost.com/premium/upgrade-your-bot.md): Not able to figure out how you can upgrade your bot to premium? Below you can find the instructions!
+- [Beta Features](https://documentation.botghost.com/premium/beta-features.md): Are you interested in testing our newest features? Read here how you can turn on beta features!
+- [Settings](https://documentation.botghost.com/general-settings-and-collaboration/settings.md): Your Bot's Settings and Presence
+- [Collab](https://documentation.botghost.com/general-settings-and-collaboration/collab.md): With these features, you can invite others to edit and work on your bot.
+- [Status](https://documentation.botghost.com/general-settings-and-collaboration/status.md): Change the "Listening to 👻 Made with BotGhost.com 👻" status to something of your own!
+- [Marketplace](https://documentation.botghost.com/general-settings-and-collaboration/marketplace.md): Get the perfect commands for your server, already built for you.
+- [Command & Event Builder](https://documentation.botghost.com/custom-commands-and-events/command-and-event-builder.md): Create your very own commands and events!
+- [Sharing Commands and Events](https://documentation.botghost.com/custom-commands-and-events/command-and-event-builder/sharing-commands-and-events.md)
+- [Advanced Options](https://documentation.botghost.com/custom-commands-and-events/command-and-event-builder/advanced-options.md)
+- [Message Builder](https://documentation.botghost.com/custom-commands-and-events/message-builder.md)
+- [Card Studio](https://documentation.botghost.com/custom-commands-and-events/card-studio.md): Design image cards, like welcome cards, rank cards and profiles, and send them from any command or event.
+- [Actions](https://documentation.botghost.com/custom-commands-and-events/actions.md)
+- [Message Actions](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions.md)
+- [Send or Edit a Message](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/send-or-edit-a-message.md)
+- [Layout](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/send-or-edit-a-message/layout.md)
+- [Content](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/send-or-edit-a-message/content.md)
+- [Interactive](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/send-or-edit-a-message/interactive.md)
+- [Button](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/send-or-edit-a-message/interactive/button.md)
+- [Select Menu](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/send-or-edit-a-message/interactive/select-menu.md)
+- [Edit a Button or Select Menu](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/edit-a-button-or-select-menu.md)
+- [Send a Form](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/send-a-form.md)
+- [Delete a Message](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/delete-a-message.md)
+- [Publish a Message](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/publish-a-message.md)
+- [React to a Message](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/react-to-a-message.md)
+- [Pin a Message](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/pin-a-message.md)
+- [Create a Transcript](https://documentation.botghost.com/custom-commands-and-events/actions/message-actions/create-a-transcript.md)
+- [Custom Variable Actions](https://documentation.botghost.com/custom-commands-and-events/actions/custom-variable-actions.md)
+- [Set Variable](https://documentation.botghost.com/custom-commands-and-events/actions/custom-variable-actions/set-variable.md)
+- [Run Equation on Variable](https://documentation.botghost.com/custom-commands-and-events/actions/custom-variable-actions/run-equation-on-variable.md)
+- [Delete Variable](https://documentation.botghost.com/custom-commands-and-events/actions/custom-variable-actions/delete-variable.md)
+- [API Actions](https://documentation.botghost.com/custom-commands-and-events/actions/api-actions.md)
+- [Send an API Request](https://documentation.botghost.com/custom-commands-and-events/actions/api-actions/send-an-api-request.md)
+- [Execute an IFTTT Trigger](https://documentation.botghost.com/custom-commands-and-events/actions/api-actions/execute-an-ifttt-trigger.md)
+- [Loop Actions](https://documentation.botghost.com/custom-commands-and-events/actions/loop-actions.md)
+- [Run a Loop](https://documentation.botghost.com/custom-commands-and-events/actions/loop-actions/run-a-loop.md)
+- [Stop a Loop](https://documentation.botghost.com/custom-commands-and-events/actions/loop-actions/stop-a-loop.md)
+- [Music Actions](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions.md)
+- [Create Music Player](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/create-music-player.md)
+- [Add to Queue](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/add-to-queue.md)
+- [Play Queue](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/play-queue.md)
+- [Pause Music](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/pause-music.md)
+- [Resume Music](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/resume-music.md)
+- [Stop Music](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/stop-music.md)
+- [Disconnect from Voice](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/disconnect-from-voice.md)
+- [Skip Track](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/skip-track.md)
+- [Set Track Position / Seek](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/set-track-position-seek.md)
+- [Set Volume](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/set-volume.md)
+- [Set Loop Mode](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/set-loop-mode.md)
+- [Set AutoLeave](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/set-autoleave.md)
+- [Replay Track](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/replay-track.md)
+- [Remove from Queue](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/remove-from-queue.md)
+- [Shuffle Queue](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/shuffle-queue.md)
+- [Apply Audio Filter](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/apply-audio-filter.md)
+- [Clear Filters](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/clear-filters.md)
+- [Search Tracks](https://documentation.botghost.com/custom-commands-and-events/actions/music-actions/search-tracks.md)
+- [Voice Actions](https://documentation.botghost.com/custom-commands-and-events/actions/voice-actions.md)
+- [Join a Voice Channel](https://documentation.botghost.com/custom-commands-and-events/actions/voice-actions/join-a-voice-channel.md)
+- [Leave a Voice Channel](https://documentation.botghost.com/custom-commands-and-events/actions/voice-actions/leave-a-voice-channel.md)
+- [Voice Move a Member](https://documentation.botghost.com/custom-commands-and-events/actions/voice-actions/voice-move-a-member.md)
+- [Voice Kick a Member](https://documentation.botghost.com/custom-commands-and-events/actions/voice-actions/voice-kick-a-member.md)
+- [Voice Mute or Unmute a Member](https://documentation.botghost.com/custom-commands-and-events/actions/voice-actions/voice-mute-or-unmute-a-member.md)
+- [Voice Deafen or Undeafen a Member](https://documentation.botghost.com/custom-commands-and-events/actions/voice-actions/voice-deafen-or-undeafen-a-member.md)
+- [Role Actions](https://documentation.botghost.com/custom-commands-and-events/actions/role-actions.md)
+- [Add Roles](https://documentation.botghost.com/custom-commands-and-events/actions/role-actions/add-role.md)
+- [Remove Roles](https://documentation.botghost.com/custom-commands-and-events/actions/role-actions/remove-role.md)
+- [Add Roles to All Users](https://documentation.botghost.com/custom-commands-and-events/actions/role-actions/add-roles-to-all-users.md)
+- [Remove Roles from All Users](https://documentation.botghost.com/custom-commands-and-events/actions/role-actions/remove-roles-from-all-users.md)
+- [Create a role](https://documentation.botghost.com/custom-commands-and-events/actions/role-actions/create-a-role.md)
+- [Delete a role](https://documentation.botghost.com/custom-commands-and-events/actions/role-actions/delete-a-role.md)
+- [Edit Role](https://documentation.botghost.com/custom-commands-and-events/actions/role-actions/edit-role.md)
+- [Channel Actions](https://documentation.botghost.com/custom-commands-and-events/actions/channel-actions.md)
+- [Create a channel](https://documentation.botghost.com/custom-commands-and-events/actions/channel-actions/create-a-channel.md)
+- [Edit a channel](https://documentation.botghost.com/custom-commands-and-events/actions/channel-actions/edit-a-channel.md)
+- [Delete a channel](https://documentation.botghost.com/custom-commands-and-events/actions/channel-actions/delete-a-channel.md)
+- [Thread and Forum Actions](https://documentation.botghost.com/custom-commands-and-events/actions/thread-and-forum-actions.md)
+- [Create a Thread](https://documentation.botghost.com/custom-commands-and-events/actions/thread-and-forum-actions/create-a-thread.md)
+- [Edit a Thread](https://documentation.botghost.com/custom-commands-and-events/actions/thread-and-forum-actions/edit-a-thread.md)
+- [Delete a Thread](https://documentation.botghost.com/custom-commands-and-events/actions/thread-and-forum-actions/delete-a-thread.md)
+- [Server Actions](https://documentation.botghost.com/custom-commands-and-events/actions/server-actions.md)
+- [Kick a member](https://documentation.botghost.com/custom-commands-and-events/actions/server-actions/kick-a-member.md)
+- [Ban a member](https://documentation.botghost.com/custom-commands-and-events/actions/server-actions/ban-a-member.md)
+- [Timeout a member](https://documentation.botghost.com/custom-commands-and-events/actions/server-actions/timeout-a-member.md)
+- [Change a members nickname](https://documentation.botghost.com/custom-commands-and-events/actions/server-actions/change-a-members-nickname.md)
+- [Purge Messages](https://documentation.botghost.com/custom-commands-and-events/actions/server-actions/purge-messages.md)
+- [Create Server Invite](https://documentation.botghost.com/custom-commands-and-events/actions/server-actions/create-server-invite.md)
+- [Leave Server](https://documentation.botghost.com/custom-commands-and-events/actions/server-actions/leave-server.md)
+- [Other Actions](https://documentation.botghost.com/custom-commands-and-events/actions/other-actions.md)
+- [Wait before running another action](https://documentation.botghost.com/custom-commands-and-events/actions/other-actions/wait-before-running-another-action.md)
+- [Manipulate some text](https://documentation.botghost.com/custom-commands-and-events/actions/other-actions/manipulate-some-text.md)
+- [Send an error log message](https://documentation.botghost.com/custom-commands-and-events/actions/other-actions/send-an-error-log-message.md)
+- [Set a unique variable](https://documentation.botghost.com/custom-commands-and-events/actions/other-actions/set-a-unique-variable.md)
+- [Change the Bot's Status](https://documentation.botghost.com/custom-commands-and-events/actions/other-actions/change-the-bots-status.md)
+- [Note](https://documentation.botghost.com/custom-commands-and-events/actions/other-actions/note.md)
+- [\[LEGACY\] Reply Actions](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions.md)
+- [Plain Text Reply](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions/plain-text-reply.md)
+- [Embed Reply](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions/embed-reply.md)
+- [Random Reply](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions/random-reply.md)
+- [Send a message to a channel](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions/send-a-message-to-a-channel.md)
+- [Direct Message a User](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions/direct-message-a-user.md)
+- [Send a Message with attached buttons](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions/send-a-message-with-attached-buttons.md)
+- [Buttons](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions/send-a-message-with-attached-buttons/buttons.md)
+- [Send a message with a select menu](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions/send-a-message-with-a-select-menu.md)
+- [Menu Option](https://documentation.botghost.com/custom-commands-and-events/actions/legacy-reply-actions/send-a-message-with-a-select-menu/menu-option.md)
+- [Conditions](https://documentation.botghost.com/custom-commands-and-events/conditions.md)
+- [Comparison Condition](https://documentation.botghost.com/custom-commands-and-events/conditions/comparison-condition.md)
+- [Permission Condition](https://documentation.botghost.com/custom-commands-and-events/conditions/permission-condition.md)
+- [Chance Condition](https://documentation.botghost.com/custom-commands-and-events/conditions/chance-condition.md)
+- [Channel Condition](https://documentation.botghost.com/custom-commands-and-events/conditions/channel-condition.md)
+- [Role Condition](https://documentation.botghost.com/custom-commands-and-events/conditions/role-condition.md)
+- [User Condition](https://documentation.botghost.com/custom-commands-and-events/conditions/user-condition.md)
+- [Premium Check Condition](https://documentation.botghost.com/custom-commands-and-events/conditions/premium-check-condition.md)
+- [Options](https://documentation.botghost.com/custom-commands-and-events/options.md)
+- [Text Option](https://documentation.botghost.com/custom-commands-and-events/options/text-option.md)
+- [Number Option](https://documentation.botghost.com/custom-commands-and-events/options/number-option.md)
+- [User Option](https://documentation.botghost.com/custom-commands-and-events/options/user-option.md)
+- [Channel Option](https://documentation.botghost.com/custom-commands-and-events/options/channel-option.md)
+- [Role Option](https://documentation.botghost.com/custom-commands-and-events/options/role-option.md)
+- [Choice Option](https://documentation.botghost.com/custom-commands-and-events/options/choice-option.md)
+- [Attachment Option](https://documentation.botghost.com/custom-commands-and-events/options/attachment-option.md)
+- [Music Smart Search Option](https://documentation.botghost.com/custom-commands-and-events/options/music-smart-search-option.md)
+- [Events](https://documentation.botghost.com/custom-commands-and-events/events.md): Create custom events for when a user joins, a channel is created, etc.
+- [Action Events](https://documentation.botghost.com/custom-commands-and-events/events/action-events.md)
+- [Timed Events](https://documentation.botghost.com/custom-commands-and-events/events/timed-events.md): Trigger custom events through schedules and intervals
+- [Webhooks](https://documentation.botghost.com/custom-commands-and-events/events/webhooks.md): Trigger custom events through webhooks
+- [Data Storage](https://documentation.botghost.com/custom-commands-and-events/data-storage.md): Create custom variables to store data for your bot
+- [Collections](https://documentation.botghost.com/custom-commands-and-events/data-storage/collections.md)
+- [Objects](https://documentation.botghost.com/custom-commands-and-events/data-storage/objects.md)
+- [IFTTT](https://documentation.botghost.com/custom-commands-and-events/ifttt.md)
+- [Variables](https://documentation.botghost.com/custom-commands-and-events/variables.md)
+- [Moderation](https://documentation.botghost.com/server-management/moderation.md): Moderate your server with a set of powerful commands!
+- [Discord Automod](https://documentation.botghost.com/server-management/discord-automod.md): Manage automod rules using the default system of Discord, and optionally earn the Automod badge
+- [Tickets](https://documentation.botghost.com/server-management/tickets.md): Let server members contact staff through a ticket!
+- [Welcomer](https://documentation.botghost.com/server-management/welcomer.md): Give your new members a warm welcome!
+- [Verification](https://documentation.botghost.com/server-management/verification.md): Easily verify new server members with Captcha, number inputs and more
+- [Statistic Channels](https://documentation.botghost.com/server-management/statistic-channels.md): Create voice channels to track metrics of your server!
+- [Modmail](https://documentation.botghost.com/server-management/modmail.md): Set up modmail, an easy way for members to contact staff
+- [Auto-React](https://documentation.botghost.com/server-management/auto-react.md): Automatically add reactions to new messages sent in a channel
+- [Sticky Roles](https://documentation.botghost.com/server-management/sticky-roles.md): Automatically re-assign roles to members that leave and re-join!
+- [Emoji Manager](https://documentation.botghost.com/server-management/emoji-manager.md): Create, edit and copy emojis on your server with ease!
+- [Polls Filter](https://documentation.botghost.com/server-management/polls-filter.md): Easily block unwanted polls in your server channels!
+- [Timed Messages](https://documentation.botghost.com/messages/timed-messages.md): Send embed or plain text messages with scheduled intervals!
+- [Reaction Roles](https://documentation.botghost.com/messages/reaction-roles.md): Add or remove roles when a user adds a reaction to a message
+- [Autoresponder](https://documentation.botghost.com/messages/autoresponder.md): Automatically send a reply to server messages, based on keywords!
+- [Embed Builder](https://documentation.botghost.com/messages/embedbuilder.md): Create awesome and creative embeds and send them to your server instantly!
+- [Sticky Messages](https://documentation.botghost.com/messages/sticky-messages.md): Highlight important server messages at the bottom of the channel and keep your members updated.
+- [Polls](https://documentation.botghost.com/messages/polls.md): Post questions for your server members to vote about!
+- [Global Chat](https://documentation.botghost.com/messages/global-chat.md): Cross-post server messages across multiple text-channels!
+- [Media Channels](https://documentation.botghost.com/messages/media-channels.md): Set up specific channels where only images can be sent!
+- [ChatGPT](https://documentation.botghost.com/ai/chatgpt.md): Interact with the OpenAI ChatGPT API using commands and auto-reply.
+- [Image Generation](https://documentation.botghost.com/ai/image-generation.md): Generate images using the Dall-E API with a given prompt.
+- [Roblox Verification](https://documentation.botghost.com/game-integrations/roblox-verification.md): Setup a Roblox account verification system for your Discord server.
+- [Leveling](https://documentation.botghost.com/community-engagement/leveling.md): Setup an awesome leveling system for your server!
+- [Temp Voice Channels](https://documentation.botghost.com/community-engagement/temp-voice-channels.md): Create temporary voice channels using hubs and personalised settings!
+- [Suggestions](https://documentation.botghost.com/community-engagement/suggestions.md): Let your members make your server even better by posting suggestions!
+- [Invite Tracker](https://documentation.botghost.com/community-engagement/invite-tracker.md): Motivate your server members with a count and leaderboard that keeps track of the people they invited!
+- [Starboard](https://documentation.botghost.com/community-engagement/starboard.md): Post the most liked messages of your server in a special channel!
+- [Question Of The Day](https://documentation.botghost.com/community-engagement/question-of-the-day.md): Boost the engagement of your server with daily questions to answer!
+- [Economy & Minigames](https://documentation.botghost.com/fun-modules/economy-and-minigames.md): Increase your server engagement with fun economy and minigames.
+- [Birthdays](https://documentation.botghost.com/fun-modules/birthdays.md): Wish your members a Happy Birthday!
+- [Counting](https://documentation.botghost.com/fun-modules/counting.md): Setup a counting mini-game and count with your server.
+- [Music](https://documentation.botghost.com/fun-modules/music.md): Play music in your Discord server with pre-built commands
+- [Translation](https://documentation.botghost.com/utility/translation.md): Communicate in your multilingual server with ease!
+- [Weather](https://documentation.botghost.com/utility/weather.md): Get the current and future weather forecast of a city.
+
+## Changelog
+
+- [Changelogs](https://documentation.botghost.com/changelog/current.md)
+- [Changelogs - 2025](https://documentation.botghost.com/changelog/2025.md)
+- [Changelogs - 2024](https://documentation.botghost.com/changelog/2024.md)
+- [Changelogs - 2023](https://documentation.botghost.com/changelog/2023.md)
