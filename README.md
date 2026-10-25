@@ -2,7 +2,7 @@
 
 Referenzprojekt für den Bau von Event-Commands und Embeds in BotGhost.
 Die Inhalte stammen aus der offiziellen BotGhost-Dokumentation und liegen
-kopiert in `Wie funktioniert das/`.
+kopiert in `docs/vendor/botghost/2026-10-24/Wie funktioniert das/`.
 
 ## Zweck
 
