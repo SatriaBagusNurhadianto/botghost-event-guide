@@ -525,7 +525,7 @@ If you have the clear on Leave option enabled, this event will trigger when a us
 ***
 
 {% hint style="danger" %}
-It's advised that you do not edit the commands and events unless you have a good understanding of BotGhost and its Command Builder. If you encounter any issues, you might want to reset the module for it to work again as intented.
+It's advised that you do not edit the commands and events unless you have a good understanding of BotGhost and its Command Builder. If you encounter any issues, you might want to reset the module for it to work again as intended.
 
 Additionally, a copy of the edited commands / events will be created if you update the module.
 {% endhint %}

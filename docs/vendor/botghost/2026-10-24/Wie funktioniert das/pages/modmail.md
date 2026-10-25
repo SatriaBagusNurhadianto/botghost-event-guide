@@ -80,7 +80,7 @@ When triggered, this command will restrict a selected users ability to use the m
 
 <summary>/modmail-clear</summary>
 
-When triggered this command will clear the modmail data for a user allowing them to use the modmail system again, this is useful incase the system breaks and acts as though a user has a thread already open.
+When triggered this command will clear the modmail data for a user allowing them to use the modmail system again, this is useful in case the system breaks and acts as though a user has a thread already open.
 
 </details>
 

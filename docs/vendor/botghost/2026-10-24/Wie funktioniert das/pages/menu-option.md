@@ -6,7 +6,7 @@
 While the Send a Message with a select menu action block is still available for use in all commands and events, it is considered old and has been replaced by the [Send or Edit a Message](/custom-commands-and-events/actions/message-actions/send-or-edit-a-message.md) action block. We advise you to use the [Send or Edit a Message](/custom-commands-and-events/actions/message-actions/send-or-edit-a-message.md) block instead, which offers more functionalities and possibilities for your message.
 {% endhint %}
 
-Menu Options are similar to buttons. They can be clicked to preform the corresponding actions. However unlike buttons, a menu option comes from a drop down of a menu itself.
+Menu Options are similar to buttons. They can be clicked to perform the corresponding actions. However unlike buttons, a menu option comes from a drop down of a menu itself.
 
 ## Label
 

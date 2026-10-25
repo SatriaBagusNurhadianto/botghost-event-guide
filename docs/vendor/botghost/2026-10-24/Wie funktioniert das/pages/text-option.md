@@ -58,7 +58,7 @@ The basic settings have been enabled by default when you start to configure auto
 
 ### Choices
 
-Choices can be addded by pressing the "Add Autocomplete Choice" in the image above.
+Choices can be added by pressing the "Add Autocomplete Choice" in the image above.
 
 #### Label
 
@@ -78,7 +78,7 @@ To access bulk mode, you have to enable it in the top of the autocomplete config
 
 ### Bulk Choices
 
-Bulk choices can be added by pasting the lable and value seperated with a comma. An example can be found below:
+Bulk choices can be added by pasting the label and value separated with a comma. An example can be found below:
 
 ```
 label1,value1

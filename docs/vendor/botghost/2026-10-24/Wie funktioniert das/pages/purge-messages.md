@@ -4,7 +4,7 @@
 
 <figure><img src="https://1937909199-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lm_hW5MApY3J0lRhi0M%2Fuploads%2FA4UQJnRj7e0fwhBn5Kyb%2FScreenshot%202026-09-29%20152609.png?alt=media&amp;token=c30005e1-f676-4e87-b097-11ad6f720169" alt=""><figcaption></figcaption></figure>
 
-The purge messages action block will allow you purge a specific amount of messages in a specfic channel.
+The purge messages action block will allow you purge a specific amount of messages in a specific channel.
 
 {% hint style="warning" %}
 If messages are older than 14 days, they can't be deleted, unless you're deleting only 1 message.

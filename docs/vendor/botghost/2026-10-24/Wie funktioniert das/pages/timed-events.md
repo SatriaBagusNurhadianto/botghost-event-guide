@@ -28,7 +28,7 @@ Setting this to Schedule will display some new options:
 
 <figure><img src="https://1937909199-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lm_hW5MApY3J0lRhi0M%2Fuploads%2Fd0lGatVZdFR3POa7A2oH%2Fimage.png?alt=media&amp;token=5cfb843e-0e54-4f1e-8f0c-945744754df8" alt=""><figcaption></figcaption></figure>
 
-Here you can set the event to tigger every X day(s) at X time. Example, run the event every Monday at 12:00:00PM. (Green = active Red = Disabled)
+Here you can set the event to trigger every X day(s) at X time. Example, run the event every Monday at 12:00:00PM. (Green = active Red = Disabled)
 
 ## Active Timed Events
 

@@ -52,7 +52,7 @@ Here you can select a channel to set verification logs to, the bot will send fai
 
 ### Extra Settings
 
-Here you can edit the extra settings for the module, these settings are extra cool functions to really make it uniqe.
+Here you can edit the extra settings for the module, these settings are extra cool functions to really make it unique.
 
 <figure><img src="https://1937909199-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lm_hW5MApY3J0lRhi0M%2Fuploads%2FwEIMSCY8bwpVP4laXKdg%2Fimage.png?alt=media&amp;token=3beecae2-3243-4ba3-9c76-4e64b0ebb2f6" alt=""><figcaption></figcaption></figure>
 
@@ -113,7 +113,7 @@ The auto kick event tracks the failed attempts and time the user is in the serve
 ***
 
 {% hint style="danger" %}
-It's advised that you do not edit the commands and events unless you have a good understanding of BotGhost and its Command Builder. If you encounter any issues, you might want to reset the module for it to work again as intented.
+It's advised that you do not edit the commands and events unless you have a good understanding of BotGhost and its Command Builder. If you encounter any issues, you might want to reset the module for it to work again as intended.
 
 Additionally, a copy of the edited commands / events will be created if you update the module.
 {% endhint %}

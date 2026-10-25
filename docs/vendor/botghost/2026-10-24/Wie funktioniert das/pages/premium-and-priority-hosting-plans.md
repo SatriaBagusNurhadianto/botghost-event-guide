@@ -10,7 +10,7 @@ We have several different subscription plans for you to choose from to match you
 
 ### <mark style="color:red;">Single Bot Subscriptions</mark> <a href="#single-bot-pricing" id="single-bot-pricing"></a>
 
-The Single Bots Package provides you with **one premium token** that can be used to upgrade **one** of BotGhost's bots to the premium version. This subscription is availble in both monthly and yearly.
+The Single Bots Package provides you with **one premium token** that can be used to upgrade **one** of BotGhost's bots to the premium version. This subscription is available in both monthly and yearly.
 
 <mark style="color:red;">**Monthly Single Bot**</mark> - The Monthly Single Bot subscription is billed monthly, and grants you access to BotGhost's premium features to one bot as long as the subscription is not cancelled.
 
@@ -18,7 +18,7 @@ The Single Bots Package provides you with **one premium token** that can be used
 
 ### <mark style="color:yellow;">Unlimited Bots Subscriptions</mark>
 
-The **Unlimited** Bots Package provides you with an **infinite number of premium tokens** that can be used to upgrade any of BotGhost bots to the premium version. This subscription is availble in both monthly and yearly.
+The **Unlimited** Bots Package provides you with an **infinite number of premium tokens** that can be used to upgrade any of BotGhost bots to the premium version. This subscription is available in both monthly and yearly.
 
 <mark style="color:yellow;">**Monthly Unlimited Bots**</mark> - The Monthly Unlimited Bots plan is billed monthly, and grants you access to BotGhost's premium features to all your bots as long as the subscription is not cancelled.
 

@@ -467,11 +467,11 @@ Advanced mode can be accessed by selecting it in the Configuration Mode.
 
 #### Allowed role IDs
 
-In this field you can enter role IDs or variables that are allowed to be pinged in the message. Seperate each with a comma (`,`).
+In this field you can enter role IDs or variables that are allowed to be pinged in the message. Separate each with a comma (`,`).
 
 #### Allowed user IDs
 
-In this field you can enter user IDs or variables that are allowed to be pinged in the message. Seperate each with a comma (`,`).
+In this field you can enter user IDs or variables that are allowed to be pinged in the message. Separate each with a comma (`,`).
 
 #### Mention Replied User
 

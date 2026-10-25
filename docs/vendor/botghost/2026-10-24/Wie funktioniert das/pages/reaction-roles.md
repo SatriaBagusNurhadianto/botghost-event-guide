@@ -139,7 +139,7 @@ Once you add a Reaction Role, the corresponding event will be created. This will
 ***
 
 {% hint style="danger" %}
-It's advised that you do not edit the events unless you have a good understanding of BotGhost and its Event Builder. If you encounter any issues, you might want to reset the module for it to work again as intented.
+It's advised that you do not edit the events unless you have a good understanding of BotGhost and its Event Builder. If you encounter any issues, you might want to reset the module for it to work again as intended.
 
 Additionally, a copy of the edited commands / events will be created if you update the module.
 {% endhint %}

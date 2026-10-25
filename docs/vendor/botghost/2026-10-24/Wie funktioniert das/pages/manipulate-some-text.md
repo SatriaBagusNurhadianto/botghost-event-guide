@@ -373,7 +373,7 @@ The portion of text to replace with. This input is case sensitive. All [Variable
 
 ## Split
 
-The Split operation separates your string with commas based on a delimeter. The variable can also be used as an array when surrounded with the `[]` brackets.
+The Split operation separates your string with commas based on a delimiter. The variable can also be used as an array when surrounded with the `[]` brackets.
 
 ### Search
 

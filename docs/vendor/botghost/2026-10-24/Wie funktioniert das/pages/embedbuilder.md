@@ -18,7 +18,7 @@ The Embed Selector lets you choose from all previous / running embeds that have 
 
 ### Message Link
 
-The Message Link feature lets you edit embeds without having to re-send the embed, this means all reactions and content underneath it will remain where they are and the message itself with just show as edited. You can only edit messages that are saved in your embed selector, if they aren't there then you wont be able to edit that message.
+The Message Link feature lets you edit embeds without having to re-send the embed, this means all reactions and content underneath it will remain where they are and the message itself with just show as edited. You can only edit messages that are saved in your embed selector, if they aren't there then you won't be able to edit that message.
 
 <div align="center"><figure><img src="https://1937909199-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lm_hW5MApY3J0lRhi0M%2Fuploads%2FJ948bqBVDymA7reDvGzo%2Fbg_message-link_linkpreviewe.png?alt=media&amp;token=d5302e9e-169b-460b-8fba-ec97d9fd6988" alt=""><figcaption><p>If your link contains discordapp.com, remove the 'app'</p></figcaption></figure> <figure><img src="https://1937909199-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lm_hW5MApY3J0lRhi0M%2Fuploads%2FOrysQ4xIRdJ2MzCQqkdU%2Fbg_message-link_editedmessage.png?alt=media&amp;token=e0b813b4-33d4-4566-a70c-02bd87a27938" alt=""><figcaption></figcaption></figure></div>
 
